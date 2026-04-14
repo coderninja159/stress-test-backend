@@ -223,3 +223,4 @@ Frontend (masalan Netlify): `VITE_API_URL=https://<sizning>.railway.app`
 
 Loyiha: **StressTest** — stress testlari va natijalar boshqaruvi.
 # stress-test-beckenti
+# stress-test-beckenti
